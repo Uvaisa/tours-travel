@@ -1,0 +1,26 @@
+.transport-css {
+  border-radius: 0.5rem;
+
+  border: 1px solid rgb(229, 231, 235);
+
+  padding: 2rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.heading1-css {
+  text-align: center;
+  color: rgb(238, 138, 15);
+  margin-bottom: 30px;
+}
+.butn-t {
+  background: rgb(238, 138, 15) !important;
+  cursor: pointer;
+  padding: 0.2rem 0.5rem;
+  width: 100px;
+  height: 36px;
+  font-size: 20px;
+  color: white;
+}
+.price {
+  color: rgb(238, 138, 15);
+}

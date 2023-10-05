@@ -1,0 +1,100 @@
+.table-css {
+  margin-top: 5px;
+  padding: 20px;
+  border: 0.5px solid;
+}
+.btns {
+  background-color: rgb(238, 138, 15);
+  color: rgb(255, 255, 255);
+  border-color: rgb(255, 255, 255);
+  border-radius: 12px;
+  width: 70px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.btns:hover {
+  border-color: rgb(76, 74, 74);
+  border-left: none;
+  border-top: none;
+}
+.form {
+  padding: 2rem;
+  border-radius: 0.5rem;
+  border: 1px solid;
+  position: sticky;
+  top: 80px;
+  margin-top: 5px;
+}
+.info-form {
+  padding: 1rem;
+  border: 1px solid rgb(232, 228, 228);
+}
+.topHead-css {
+  text-align: center;
+  margin-top: 5px;
+  color: red;
+}
+
+.form h5 {
+  margin-bottom: 1rem;
+}
+.form input {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  color: black;
+  font-size: 1rem;
+  border: none;
+  border-bottom: 0.5px solid rgb(232, 228, 228);
+}
+.form input:focus {
+  outline: none;
+}
+.update-btn {
+  width: 100%;
+  background-color: rgb(238, 138, 15);
+  color: white;
+  font-weight: 1000;
+  font-size: 20px;
+  border-color: white;
+  border-radius: 20px;
+}
+.update-btn:hover {
+  border-color: black;
+  border-width: 3px;
+  border-left: none;
+  border-top: none;
+}
+.head-css {
+  /* text-align: center; */
+  color: rgb(230, 222, 232);
+  background-color: rgb(247, 239, 246);
+  margin-left: 130px;
+  margin-right: 130px;
+  margin-top: 30px;
+  border-radius: 50px;
+}
+.botn-css {
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 9px;
+  margin-top: 10px;
+  height: 40px;
+  width: 135px;
+  background-color: rgb(238, 138, 15);
+  border: none;
+  border-radius: 20px;
+  color: aliceblue;
+  font-weight: 1000;
+  font-size: 19px;
+}
+.botn-css:hover {
+  background-color: black;
+}
+.link-css {
+  color: aliceblue;
+  text-decoration: none;
+}
+.link-css:hover {
+  color: white;
+}

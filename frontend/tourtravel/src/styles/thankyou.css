@@ -1,0 +1,18 @@
+.btn {
+  background-color: rgb(238, 138, 15);
+  border-radius: 20px;
+
+  font-weight: 500;
+}
+.ab {
+  color: white;
+  text-decoration: none;
+}
+.tag {
+  font-size: 4rem;
+  color: green;
+}
+.thank__you h1 {
+  font-size: 3.6rem;
+  font-family: "Times New Roman", Times, serif;
+}

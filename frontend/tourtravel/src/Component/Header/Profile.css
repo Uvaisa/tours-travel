@@ -1,0 +1,54 @@
+.Card-css {
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 50px;
+}
+.div {
+  display: flex;
+}
+.head {
+  text-align: center;
+  color: rgb(7, 119, 82);
+}
+.icons-div {
+  margin-left: 20px;
+  display: grid;
+}
+.icons {
+  height: 30px;
+  width: 30px;
+  color: rgb(7, 119, 82);
+}
+.div-label {
+  display: grid;
+}
+.label {
+  margin-left: 50px;
+  font-size: 28px;
+  font-weight: 500;
+}
+.value-div {
+  display: grid;
+  margin-left: 100px;
+}
+.value {
+  color: rgb(238, 138, 15);
+  font-size: 28px;
+  font-weight: 500;
+}
+.back-btn {
+  width: 120px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin: 10px;
+  background-color: rgb(238, 138, 15);
+  border-radius: 20px;
+  color: white;
+  border-color: white;
+  height: 35px;
+}
+.back-btn:hover {
+  color: black;
+}

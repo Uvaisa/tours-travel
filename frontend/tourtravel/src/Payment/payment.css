@@ -1,0 +1,24 @@
+.payment-box {
+  padding: 2rem;
+  border-radius: 0.5rem;
+  border: 1px solid;
+  position: sticky;
+  top: 80px;
+  width: 500px;
+  height: 450px;
+}
+.butn {
+  width: 100%;
+
+  margin-top: 4px;
+  background-color: rgb(238, 138, 15);
+  border: 1px;
+  height: 35px;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+}
+.butn:hover {
+  color: black;
+}
