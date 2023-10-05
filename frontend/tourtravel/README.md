@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### important 
+inside the folder assets there is a folder named images upload any picture you want in your front end as (a1,atm,earth,exImg,gm1,gm2,gm3,gm4,gm5,gm6,gm7,gm8,gm9,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,logiimage,loginLogo2,n1,ooty,paris,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,t1,t2,tt1,u1,w1,w2,w3,w4,w5,w6).png other wise it will give error
